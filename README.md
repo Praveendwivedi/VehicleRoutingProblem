@@ -11,12 +11,12 @@ Thus, we would like to focus on a variant of the Vehicle Routing Problem – i.e
 3.	Create trips with definitive routes for the vehicles and assign all orders to these trips
 
 Expectations: 
-•	Select the most suited solution(s) for route planning & clustering from GitHub for the above stated problem
-•	Build a solution for automating generation of clusters based on load (no. of orders to be picked up / delivered)
-•	Run a simulation for 5000 orders to be delivered to different locations in a single day in a particular geographical territory with multiple clusters using a fixed number of vehicles. By minimizing the total distance travelled by all vehicles & ensuring maximum capacity of each of the vehicles assigned to trips is utilized. 
-•	Assume 100 vehicles available for the route planning at the hub
-•	Output of the simulation – 
-o	Each of the 5000 order must be assigned to a trip (which is assigned to a single Vehicle)
-o	Each trip must have routes & sequencing of orders defined to minimize the amount of distance travelled. 
-•	The project must be accompanied with a summary document of the open source projects used and what changes were implemented or what modules were built to arrive at the simulation results
+1. Select the most suited solution(s) for route planning & clustering from GitHub for the above stated problem
+2. Build a solution for automating generation of clusters based on load (no. of orders to be picked up / delivered)
+3. Run a simulation for 5000 orders to be delivered to different locations in a single day in a particular geographical territory with multiple clusters using a fixed number of vehicles. By minimizing the total distance travelled by all vehicles & ensuring maximum capacity of each of the vehicles assigned to trips is utilized. 
+4. Assume 100 vehicles available for the route planning at the hub
+5. Output of the simulation – 
+- Each of the 5000 order must be assigned to a trip (which is assigned to a single Vehicle)
+- Each trip must have routes & sequencing of orders defined to minimize the amount of distance travelled. 
+6. The project must be accompanied with a summary document of the open source projects used and what changes were implemented or what modules were built to arrive at the simulation results
 
