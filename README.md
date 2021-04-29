@@ -19,4 +19,4 @@ Expectations:
 o	Each of the 5000 order must be assigned to a trip (which is assigned to a single Vehicle)
 o	Each trip must have routes & sequencing of orders defined to minimize the amount of distance travelled. 
 •	The project must be accompanied with a summary document of the open source projects used and what changes were implemented or what modules were built to arrive at the simulation results
-![image](https://user-images.githubusercontent.com/83390565/116509840-953f6580-a8e1-11eb-9b60-697dbaeef2e9.png)
+
