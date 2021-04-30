@@ -7,7 +7,7 @@ Real-life cases face uncertainties in load of orders, in travel time and in avai
 
 Thus, we would like to focus on a variant of the Vehicle Routing Problem – i.e. Clustered Vehicle Routing Problem, where customers are divided into clusters based on geo location. While doing so, the solution may determine vehicles to consecutively visit all customers belonging to the same cluster. This approach may work very well for clusters where the load of delivering orders is high, however, fewer orders scattered across multiple clusters may not able to meet the constraint of ensuring the fleet capacity if optimally utilized. For solving this problem, there is a need to: 
 1.	Automatically create clusters based on load (no. of orders to be picked up / delivered) in a given hub where route planning is being done
-2.	Sort all orders based on the clusters being defines
+2.	Sort all orders based on the clusters being defined
 3.	Create trips with definitive routes for the vehicles and assign all orders to these trips
 
 Expectations: 
