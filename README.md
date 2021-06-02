@@ -27,7 +27,13 @@ This repo contains jupyter noteebook implementation of algorithms for solving Cl
 
 1. Clone this repo.
 
-> git clone https://github.com/Praveendwivedi/VehicleRoutingProblem.git
+> git clone https://github.com/Praveendwivedi/VehicleRoutingProblem.git 
+
+2. Install the required libraries
+
+> cd VehicleRoutingProblem \
+> pip install -r requirements
+
 
 # Folder structure
   - Clustering-algos
