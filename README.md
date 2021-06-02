@@ -13,6 +13,15 @@ This repo contains jupyter noteebook implementation of algorithms for solving Cl
 
 # Requirements
   - Jupyter Notebook
+  - ortools
+  - matplotlib
+  - smac==0.8.0
+  - autocluster
+  - sklearn
+  - pandas
+  - pyclustering
+  - folium
+
   
 # How to use
 
