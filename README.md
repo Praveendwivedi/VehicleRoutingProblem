@@ -5,7 +5,7 @@
    * [What is this?](#what-is-this)
    * [Requirements](#requirements)
    * [How to use](#how-to-use)
-   * [File structre](#file-structure)
+   * [Folder structre](#folder-structure)
 
    
 # What is this
